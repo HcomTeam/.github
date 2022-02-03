@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+![image](https://user-images.githubusercontent.com/68991507/152326324-a391cfe2-6012-4051-a4e4-0e0c6afc0c8e.png)
+
+Yes, here is the HcomTeam. Our goal is to be a large open source community🪐. Publishing systems, modules and many open source codes that we do in every way. If you want requests ✨, questions and help during this process, do not forget to stop by the [feedback](https://github.com/HcomTeam/feedback/discussions) warehouse.
+
+
 <!--
 
 **Here are some ideas to get you started:**
